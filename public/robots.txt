@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemaps
+Sitemap: https://mentneo.com/sitemap.xml
+
+# Crawl delay for courtesy
+Crawl-delay: 1
